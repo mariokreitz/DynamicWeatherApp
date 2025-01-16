@@ -1,13 +1,19 @@
 {
   "name": "dynamicweatherapp",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "A dynamic weather app built with React, TypeScript, Vite, and TailwindCSS.",
+  "author": "Mario Kreitz",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "start": "vite preview",
+    "lint": "eslint . --ext .ts,.tsx --fix",
+    "format": "prettier --write .",
+    "check-types": "tsc --noEmit",
+    "postinstall": "tailwindcss init"
   },
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
