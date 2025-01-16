@@ -87,10 +87,3 @@ Netlify will automatically build and deploy your app. Once done, you'll receive 
 ### 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### 👨‍💻 Author
-
-- **Your Name**  
-  [GitHub Profile](https://github.com/mariokreitz)
