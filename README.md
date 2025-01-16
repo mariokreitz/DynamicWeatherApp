@@ -7,6 +7,11 @@ You can try the live demo of the application deployed on Netlify:
 
 [Live Demo on Netlify](https://dynamicweatherapp-mk.netlify.app/)
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="./screenshot_1.png" alt="Screenshot 1" width="45%" />
+  <img src="./screenshot_2.png" alt="Screenshot 2" width="45%" />
+</div>
+
 ---
 
 ### 🛠️ Features
