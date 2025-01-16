@@ -1,11 +1,11 @@
-# Dynamic Weather App
+# Dynamic Weather App [![Netlify Status](https://api.netlify.com/api/v1/badges/e1798d2a-1c75-4acd-af3d-3ef701491dbd/deploy-status)](https://app.netlify.com/sites/dynamicweatherapp-mk/deploys)
 
 A beautiful and dynamic weather application built with React, Vite, TypeScript, and TailwindCSS. This app allows users to search for weather data for various cities and displays information like temperature, weather description, humidity, and wind speed. The app features a clean UI with FontAwesome icons and supports light and dark themes.
 
 ### 🚀 Live Demo
 You can try the live demo of the application deployed on Netlify:
 
-[Live Demo on Netlify](https://your-netlify-link.netlify.app)
+[Live Demo on Netlify](https://dynamicweatherapp-mk.netlify.app/)
 
 ---
 
